@@ -2,30 +2,16 @@
 
 This repository contains the practical assignments and experiments conducted for the Machine Learning Lab course.
 
-## Student Details
-- **Name:** Arnish Manwatkar
-- **Batch:** C-C3
-- **Roll No:** 38
 
 ## Repository Structure
 The repository is organized into folders for each lab session. Each folder contains the necessary Jupyter Notebooks, datasets, and a specific README describing the objective and outcomes of that practical.
 
-- **[Lab1](./Lab1):** Exploratory Data Analysis (EDA) and data preprocessing techniques on the Titanic Dataset.
-- *(Future labs like `Lab2`, `Lab3` will be added here as the semester progresses)*
 
 ## Common Prerequisites
-To execute the code in these practicals, you generally need Python 3 and the following common libraries:
+Executing the code in these practicals requires the following common libraries:
 - `pandas`
 - `numpy`
 - `matplotlib`
 - `seaborn`
-- `scikit-learn` (for upcoming machine learning models)
+- `scikit-learn`
 
-## Usage
-To run the notebooks locally, clone the repository and start Jupyter Notebook:
-
-```bash
-git clone https://github.com/ArnishM/Machine_Learning_Lab.git
-cd Machine_Learning_Lab
-jupyter notebook
-```
